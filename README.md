@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asumkin
-- 👀 I’m interested in C, C++, Objective C, Swift, PHP, Phalcon, Pyton, PL/SQL, TransactSQL
-- 🌱 I’m currently learning ... all I need to make a big launches :-)
+- 👀 I’m interested in C, C++, Swift, PHP, Phyton, SQL, JS
+- 🌱 I’m currently learning ... Swift I need to make a big launches :-)
 - 💞️ I’m looking to collaborate on some huge projects
 - 📫 How to reach me - here, asumkin@exactbs.com
 
